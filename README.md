@@ -10,4 +10,4 @@ A structured collection of learning projects in C++, Java, data structures, memo
 - [04 - C++ STL From Scratch](04-cpp-stl-from-scratch/README.md) — Custom containers implemented with templates.
 - [05 - Flight Reservation System](05-cpp-flight-reservation-system/README.md) — Console-based C++ flight booking project with validation, recursion, and tests.
 
-Each section contains its own README with build notes and learning goals.
+- [06 - Smart Backup Job Manager](06-smart-backup-job-manager/README.md) — Smart pointers, ownership, filesystem operations, and multi-file C++ project structure.\n\nEach section contains its own README with build notes and learning goals.
